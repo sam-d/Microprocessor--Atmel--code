@@ -10,3 +10,7 @@ be found in the different folders:
 * servoManuell: same but including a push button
 * tasterLED: lighting a LED when button is pushed
 
+# LICENSE
+ All code in this repository is licensed under a 2-clause BSD license. The
+ License in found in the file LICENSE in the root folder and applies to all code
+ below it.
